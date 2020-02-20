@@ -1,4 +1,4 @@
-db = require('../data.db-config.js');
+db = require('../data/db-config');
 
 // -   `find()`:
 //     -   Calling find returns a promise that resolves to an array of all schemes in the database.
